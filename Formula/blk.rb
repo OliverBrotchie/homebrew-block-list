@@ -2,7 +2,7 @@ class Blk < Formula
   desc "Hosts-based block list manager"
   homepage "https://github.com/OliverBrotchie/block-list"
   url "https://github.com/OliverBrotchie/block-list/archive/refs/tags/v2.0.0.tar.gz"
-  sha256 "aa9c8b54f7985b09a29cfe0afc2cef808b54f71b1074026039bccd45d732d2c0"
+  sha256 "6dcc1e2209e05e13f8edeb492765b477342f05956f0743a711fa3fc2d29c8f1c"
   license "GPL-3.0"
   head "https://github.com/OliverBrotchie/block-list.git", branch: "main"
 
